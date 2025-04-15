@@ -13,12 +13,12 @@ num_leds = 2
 np = neopixel.NeoPixel(Pin(led_pin), num_leds)
 
 # Wi-Fi Credentials
-ssid = "STARLINK"
-password = "spacex69"
+ssid = "Replace this with your Wifi SSID" 
+password = "Replace this with your Wifi Password"
 
 # Telegram Bot Details
-bot_token = "7609531121:AAHFdswz8I0ZdG5HV3RbyOysmbrnQQQrEFw"
-group_chat_id = "-1002582052920"
+bot_token = "Replace this with your bot_token"
+group_chat_id = "Replace this with your group_chat_id"
 
 # Fur Elise Melody (sweet 10s version)
 melody = [
